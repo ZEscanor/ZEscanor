@@ -14,7 +14,7 @@
 - ⚡ Fun fact: ... I've was featured on TV twice as an actor in the Goodman Theatre
 
 
- Teck Stack
+ Tech Stack
  
  Front-End: HTML, CSS/LESS, JavaScript, React.js, Redux
  
