@@ -5,8 +5,8 @@
   
   
 - 🔭 I’m currently working on ... MeTube (A YouTube Clone)
-- 🌱 I’m currently learning ... Python
-- 👯 I’m looking to collaborate on ... Projects needing a fullstack
+- 🌱 I’m currently learning ... MERN STACK
+- 👯 I’m looking to collaborate on ... Websites
 - 📫 How to reach me: ... yinusaamusa137@gmail.com
 - 😄 Pronouns: ... He/Him/His
 - ⚡ Fun fact: ... I've was featured on TV twice as an actor in the Goodman Theatre
