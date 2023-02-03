@@ -1,15 +1,12 @@
 
-  Hello Welcome to my page! I'm Yinusa but you can call me Z. 
-  I am a fullstack developer based in Chicago. I've been learning code for about 3+ years and love making   stuff the makes a real difference and impact on others. 
+  Hello Welcome to my page!
   
   
   
 - 🔭 I’m currently working on ... Memories(MERN project)
-- 🌱 I’m currently learning ... MERN STACK
-- 👯 I’m looking to collaborate on ... Websites
+- 🌱 I’m currently learning ... AI
 - 📫 How to reach me: ... yinusaamusa137@gmail.com
 - 😄 Pronouns: ... He/Him/His
-- ⚡ Fun fact: ... I've was featured on TV twice as an actor in the Goodman Theatre
 
 
 # 💻 Tech Stack:
