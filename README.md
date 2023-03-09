@@ -3,7 +3,7 @@
   
   
   
-- 🔭 I’m currently working on ... Memories(MERN project)
+- 🔭 I’m currently working on ... Memories
 - 🌱 I’m currently learning ... AI, AWS
 - 📫 How to reach me: ... yinusaamusa137@gmail.com
 - 😄 Pronouns: ... He/Him/His
